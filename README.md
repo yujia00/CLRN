@@ -20,4 +20,5 @@ The codes of CLRN are implemented and tested under the following development env
 - tqdm==4.65.0
 
 ## Model Structure
-![CLRN model](https://github.com/user-attachments/assets/4a24e476-9ed0-4589-b465-da15a2eeda0b)
+![CLRN model](https://github.com/user-attachments/assets/f1d53b9e-1250-4023-be1e-eee66bcfe48a)
+
